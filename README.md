@@ -1,7 +1,7 @@
-# Master-Thesis-Code
+# Master Thesis Code
 This repository holds all the code written for the experiments in Michaël Adriaensen's Master Thesis 'Choosing Suitable Fairness Metrics And Interventions'.
 
-##How to Use
+## How to Use
 You should not change the directory structure.
 
 All of the scripts that perform the experiments were written in python 3.
