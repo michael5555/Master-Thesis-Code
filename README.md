@@ -31,11 +31,12 @@ These are the scripts used to perform the experiments in the thesis:
   * python3 reweighing.py
   * python3 di.py
   * python3 lfr.py
+  
  example 2: (currently in Fair_inference directory)
   * python3 fairinf.py
   
   If you want to run the experiments that Nabi and Shpitzer ran for fair inference, you can find them in the following repo:
-  (https://github.com/raziehna/fair-inference-on-outcomes.git)
+  https://github.com/raziehna/fair-inference-on-outcomes.git
   
   I ran the adult sexism experiment using Rscript.
 
